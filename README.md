@@ -8,4 +8,4 @@ convolutional neural networkを活用して顔画像の系統を分類
 
 ## Author
 
-[tcnksm](https://github.com/reima21)
+[reima21](https://github.com/reima21)
